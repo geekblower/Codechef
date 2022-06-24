@@ -22,16 +22,16 @@ using namespace std;
 const int MOD = 1e9+7;
 
 void solve() {
-    create(a)
-    create(b)
-    create(c)
-    if(a+b+c == 180 && a!=0 && b!=0 && c!=0)
-	cout<<"YES";
-    else
-	cout<<"NO";
+    	create(a)
+    	create(b)
+    	create(c)
+    	if(a+b+c == 180 && a!=0 && b!=0 && c!=0)
+		cout<<"YES";
+    	else
+		cout<<"NO";
 }
 
 int32_t main() {
-    GEEKBLOWER
-    SOLVE
+	GEEKBLOWER
+    	SOLVE
 }
