@@ -30,6 +30,6 @@ void solve() {
 }
 
 int32_t main() {
-    GEEKBLOWER
-    SOLVE
+	GEEKBLOWER
+    	SOLVE
 }
