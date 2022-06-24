@@ -22,16 +22,16 @@ using namespace std;
 const int MOD = 1e9+7;
 
 void solve() {
-    create(n);
-    int sum=0;
-    while(n) {
-	sum += n;
-	n--;
-    }
-    cout<<sum<<endl;
+    	create(n);
+    	int sum=0;
+    	while(n) {
+		sum += n;
+		n--;
+    	}
+    	cout<<sum<<endl;
 }
 
 int32_t main() {
-    GEEKBLOWER
-    SOLVE
+    	GEEKBLOWER
+	SOLVE
 }
