@@ -1,1 +1,1 @@
-# CODECHEF-Problems
+# Codechef
